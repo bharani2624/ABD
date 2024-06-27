@@ -1,9 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm BHARANI DHARAUN A</h1>
 <h3 align="center">Tech Explorer</h3>
 
-    💬 Ask me about QT, AI, MERN
-    📫 How to reach me: bharani2624baru@gmail.com
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D5603AQEXloP-BC56Ow/profile-displayphoto-shrink_800_800/0/1707145412417?e=1724889600&v=beta&t=vHgSWIDUNfCfX3VfhZygULxVDhsAU_dye1YefR1qaRg" alt="BHARANI DHARAUN A" width="200"/>
+</p>
+
+- 💬 Ask me about **QT, AI, MERN**
+- 📫 How to reach me: **bharani2624baru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,6 +14,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -71,4 +75,3 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
 </p>
-
