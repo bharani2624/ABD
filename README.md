@@ -75,3 +75,6 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
 </p>
+- name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v3.2.0
+            
